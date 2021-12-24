@@ -1,0 +1,1 @@
+cmd_/home/seed/Desktop/labs/lab4/Meltdown/Labsetup/MeltdownKernel.mod := { echo  /home/seed/Desktop/labs/lab4/Meltdown/Labsetup/MeltdownKernel.o; echo; } > /home/seed/Desktop/labs/lab4/Meltdown/Labsetup/MeltdownKernel.mod
